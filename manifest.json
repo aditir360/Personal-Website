@@ -1,7 +1,7 @@
 {
-	"responsive": true,
-    "glyph-icons": true,
-	"enableEditorJS": true,
+   "responsive": true,
+   "glyph-icons": true,
+   "enableEditorJS": true,
    "features": [
         "responsive",
         "css-buttons",
